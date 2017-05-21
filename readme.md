@@ -24,4 +24,4 @@ $ sao telegraf/template-bot
 
 ```sh
 $ sao bot
-``
+```
