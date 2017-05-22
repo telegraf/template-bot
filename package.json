@@ -1,6 +1,6 @@
 {
   "name": "template-bot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scaffolding out a Telegram bot",
   "author": "Vitaly Domnikov <dotcypress@gmail.com>",
   "license": "MIT",

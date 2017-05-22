@@ -6,9 +6,9 @@ Based on [template-micro-service](https://github.com/tiaanduplessis/template-mic
 
 ## Features
 
-- ▲ Build with [micro-bot](https://github.com/telegraf/micro-bot)
-- 📖 Lint with [standard](https://github.com/feross/standard)
-- 📜 README with instant [now](https://zeit.co/now) deployment buttons
+- Build with [micro-bot](https://github.com/telegraf/micro-bot)
+- Lint with [standard](https://github.com/feross/standard)
+- README with instant [now](https://zeit.co/now) deployment buttons
 
 ## Usage
 

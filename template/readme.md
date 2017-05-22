@@ -9,8 +9,13 @@
 ## Usage
 
 ```sh
-$ npm install --global micro-bot
-$ micro-bot
+$ npm install
+$ BOT_TOKEN='123:......' npm run dev
+```
+
+```sh
+$ yarn
+$ BOT_TOKEN='123:......' yarn dev
 ```
 
 ## Deployment
