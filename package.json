@@ -1,19 +1,19 @@
 {
   "name": "template-bot",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Scaffolding out a Telegram bot",
   "author": "Vitaly Domnikov <dotcypress@gmail.com>",
   "license": "MIT",
   "main": "index.js",
   "repository": {
-    "url": "telegraf/template-bot",
+    "url": "git+ssh://git@github.com/telegraf/template-bot",
     "type": "git"
   },
   "scripts": {
     "test": "eslint ."
   },
   "engines": {
-    "node": ">=6.2.0"
+    "node": ">=8.5.0"
   },
   "files": [
     "sao.js",
@@ -21,13 +21,13 @@
   ],
   "dependencies": {
     "camelcase": "^4.1.0",
-    "superb": "^1.3.0"
+    "superb": "^2.0.0"
   },
   "devDependencies": {
-    "eslint": "^3.7.0",
+    "eslint": "^4.10.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-node": "^5.2.1",
     "eslint-plugin-promise": "^3.0.0",
     "eslint-plugin-standard": "^3.0.1"
   }
