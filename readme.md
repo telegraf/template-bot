@@ -1,6 +1,6 @@
 # template-bot
 
-🚀 Kick-start a Telegram bor with `micro-bot`
+🚀 Kick-start a Telegram bot with `micro-bot`
 
 Based on [template-micro-service](https://github.com/tiaanduplessis/template-micro-service).
 
