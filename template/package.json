@@ -20,7 +20,7 @@
   "author": "<%= username %> <<%= email %>>",
   "license": "MIT",
   "dependencies": {
-    "micro-bot": "^2.2.3"
+    "micro-bot": "^2.2.4"
   },
   "devDependencies": {
     "eslint": "^4.17.0",

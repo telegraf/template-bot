@@ -1,6 +1,6 @@
 {
   "name": "template-bot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Scaffolding out a Telegram bot",
   "author": "Vitaly Domnikov <dotcypress@gmail.com>",
   "license": "MIT",
@@ -20,7 +20,7 @@
     "template"
   ],
   "dependencies": {
-    "camelcase": "^4.1.0",
+    "camelcase": "^5.0.0",
     "superb": "^2.0.0"
   },
   "devDependencies": {
