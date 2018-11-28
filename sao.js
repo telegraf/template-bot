@@ -14,7 +14,7 @@ module.exports = {
     },
     description: {
       message: 'How would you describe the new bot?',
-      default: `my ${superb()} bot`
+      default: `my ${superb.random()} bot`
     },
     username: {
       message: 'What is your GitHub username?',
