@@ -1,8 +1,8 @@
-const { Composer, log, session } = require('micro-bot')
+const Composer = require('telegraf/composer')
+const session = require('telegraf/session')
 
 const bot = new Composer()
 
-bot.use(log())
 bot.use(session())
 
 bot.start(({ reply }) => reply('Welcome message'))

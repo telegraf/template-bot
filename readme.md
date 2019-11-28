@@ -1,12 +1,12 @@
 # template-bot
 
-🚀 Kick-start a Telegram bot with `micro-bot`
+🚀 Kick-start a Telegram bot with `Telegraf`
 
 Based on [template-micro-service](https://github.com/tiaanduplessis/template-micro-service).
 
 ## Features
 
-- Build with [micro-bot](https://github.com/telegraf/micro-bot)
+- Build with [telegraf](https://github.com/telegraf/telegraf)
 - Lint with [standard](https://github.com/feross/standard)
 - README with instant [now](https://zeit.co/now) deployment buttons
 
